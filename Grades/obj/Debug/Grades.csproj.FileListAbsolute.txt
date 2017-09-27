@@ -1,0 +1,6 @@
+C:\TROY\Grades\Grades\bin\Debug\Grades.exe.config
+C:\TROY\Grades\Grades\bin\Debug\Grades.exe
+C:\TROY\Grades\Grades\bin\Debug\Grades.pdb
+C:\TROY\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\TROY\Grades\Grades\obj\Debug\Grades.exe
+C:\TROY\Grades\Grades\obj\Debug\Grades.pdb
